@@ -1,5 +1,5 @@
-char ssid[] = "Abdul Khoifan";
-char pass[] = "alhamdulillah";
+char ssid[] = "Redmi 8";
+char pass[] = "nur135794";
 
 bool fetch_blynk_state1 = false;
 bool fetch_blynk_state2 = false;
