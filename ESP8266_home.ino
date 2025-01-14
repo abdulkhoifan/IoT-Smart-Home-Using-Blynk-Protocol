@@ -12,8 +12,8 @@ Servo servo1, servo2;
 
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Abdul Khoifan"; // Enter WIFI Name Here
-char pass[] = "alhamdulillah"; // Enter WIFI Password Here
+char ssid[] = "Redmi 8"; // Enter WIFI Name Here
+char pass[] = "nur135794"; // Enter WIFI Password Here
  
  
 int mq2 = A0; // smoke sensor is connected with the analog pin A0 
